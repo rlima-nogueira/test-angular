@@ -58,7 +58,7 @@ describe(UniqueIdService.name, () => {
         should throw when called with empty `, () => {
 
     /**
-     * Quando chamamos um metódo, querendo testar se ele lança uma excessão ou não,
+     * Quando chamamos um metódo, querendo testar se ele lança uma exceção ou não,
      * é necessário colocar dentro de um função
      */
 
